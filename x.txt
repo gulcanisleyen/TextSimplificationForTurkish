@@ -1,0 +1,16 @@
+Ýzmit te doktorlarýn ant töreni gerçekleþti. 
+Kiþi: ant
+----------------
+Katýlýmcýlarýn hafýzasýnda yer eden törende baþka hadise gerçekleþti. 
+----------------
+Bir kadýn feryadý duyuldu. 
+Kiþi: feryadý
+----------------
+Kiþi: duyuldu
+----------------
+Gelen polis ekibi böylece kadýnýn cesedini buldu. 
+Kiþi: cesedini
+----------------
+Olay sonrasýnda insanlar ifade için polise; suçlu mahkemeye götürüldü.        
+Kiþi: mahkemeye
+----------------

@@ -1,0 +1,10 @@
+bank
+fener
+yargıtay
+türk
+spor
+kent
+haber
+saray
+beşik
+genç

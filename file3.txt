@@ -1,0 +1,1 @@
+SharedPredicate Sentence is :  Ahmet dershaneye  gitti. Mehmet okula gitti.
